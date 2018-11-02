@@ -7,6 +7,6 @@
 * Created ***Maven*** Project in ***IntelliJ***
 * Deployed war file in ***Tomcat***
 
-## Week 2  Learn Modern Java Application Development
-### Week 2-1 Learn Spring-Boot, Spring-Data
-* Used ***Spring-Boot*** to write *HelloWorld* REST API
+## Week 2  Learn Modern Java Application Development (Spring Boot, Spring Data)
+### Week 2-1 Learn Spring Boot
+* Used ***Spring Boot*** to write *HelloWorld* REST API
