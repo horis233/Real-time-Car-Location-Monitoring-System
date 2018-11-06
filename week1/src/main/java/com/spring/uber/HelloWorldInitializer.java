@@ -2,18 +2,18 @@ package com.spring.uber;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
+/* Java Configuration - need to import library in pom.xml */
 public class HelloWorldInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
-    @Override
+
+
     protected Class<?>[] getRootConfigClasses() {
         return new Class[]{HelloWorldConfiguration.class};
     }
 
-    @Override
     protected Class<?>[] getServletConfigClasses() {
         return null;
     }
 
-    @Override
     protected String[] getServletMappings() {
         return new String[]{"/"};
     }

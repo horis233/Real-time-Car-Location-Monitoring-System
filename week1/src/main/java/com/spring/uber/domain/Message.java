@@ -10,12 +10,11 @@ public class Message {
         this.text = text;
     }
 
-    public String getName(){
-        return this.name;
+    public String getName() {
+        return name;
     }
 
-    public String getText(){
-        return this.text;
+    public String getText() {
+        return text;
     }
-
 }
