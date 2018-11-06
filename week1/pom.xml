@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <springframework.version>4.3.17</springframework.version>
+        <springframework.version>4.3.18</springframework.version>
         <jackson.library>2.8.11.1</jackson.library>
         <war.name>Hello-Week1</war.name>
     </properties>
