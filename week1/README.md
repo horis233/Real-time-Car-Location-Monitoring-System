@@ -1,6 +1,6 @@
 # Spring Project
 
-![spring](./springMVC.png)
+![spring](../springMVC.png)
 
 ```
 com.spring.uber
