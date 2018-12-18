@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98140c1-97a0-4528-a220-929b9d6914f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/UnitFault.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/UnitFault.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +16,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2-2/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="132" column="24" lean-forward="true" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
+            <state relative-caret-position="418">
+              <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java">
+        <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/UnitFault.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="724">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="399">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
                 <element signature="e#1293#1294#0" expanded="true" />
                 <element signature="e#1329#1330#0" expanded="true" />
                 <element signature="e#1403#1404#0" expanded="true" />
@@ -80,6 +92,7 @@
         <option value="$PROJECT_DIR$/week2-2/src/main/java/com/kevin/spring/uber/FleetLocationServiceApplication.java" />
         <option value="$PROJECT_DIR$/week2-2/pom.xml" />
         <option value="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java" />
+        <option value="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/UnitFault.java" />
       </list>
     </option>
   </component>
@@ -267,7 +280,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545169355619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545169461962" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -309,7 +322,7 @@
       <workItem from="1541476925631" duration="651000" />
       <workItem from="1541792007543" duration="599000" />
       <workItem from="1542224767679" duration="122000" />
-      <workItem from="1545167817439" duration="1503000" />
+      <workItem from="1545167817439" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="initialize the spring config">
       <created>1540518206611</created>
@@ -367,14 +380,22 @@
       <option name="project" value="LOCAL" />
       <updated>1545168622237</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=":construction: update Location Class">
+      <created>1545169359888</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1545169359888</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10358000" />
+    <option name="totallyTimeSpent" value="10418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1080" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49895397" visible="true" weight="0.30196938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,10 +413,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32810867" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32810867" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3294979" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
@@ -424,7 +445,8 @@
     <MESSAGE value="update modules" />
     <MESSAGE value=":construction Define Location Class" />
     <MESSAGE value=":construction: Define Location Class" />
-    <option name="LAST_COMMIT_MESSAGE" value=":construction: Define Location Class" />
+    <MESSAGE value=":construction: update Location Class" />
+    <option name="LAST_COMMIT_MESSAGE" value=":construction: update Location Class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Uber.iml" />
@@ -489,23 +511,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2-2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="132" column="24" lean-forward="true" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1293#1294#0" expanded="true" />
             <element signature="e#1329#1330#0" expanded="true" />
             <element signature="e#1403#1404#0" expanded="true" />
             <element signature="e#1452#1453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/UnitFault.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
           </folding>
         </state>
       </provider>

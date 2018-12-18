@@ -1,4 +1,4 @@
-package com.kevin.spring.uber.domain;
+package com.horis.spring.uber.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
