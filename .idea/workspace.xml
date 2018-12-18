@@ -2,101 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98140c1-97a0-4528-a220-929b9d6914f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Real-time-Car-Location-Monitoring-System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_github_fge_json_patch_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__com_h2database_h2_1_4_188.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_0_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_projectlombok_lombok_1_16_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_0_M5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_9_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_2_4_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_data_spring_data_rest_hal_browser_2_4_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_2_4_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_19_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_aop_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_beans_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_context_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_core_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_expression_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_orm_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_test_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_tx_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_web_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/FleetLocationServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/UnitFault.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,19 +24,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/FleetLocationServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="724">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1329#1330#0" expanded="true" />
+                <element signature="e#1403#1404#0" expanded="true" />
+                <element signature="e#1452#1453#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,6 +79,7 @@
         <option value="$PROJECT_DIR$/week2-1/pom.xml" />
         <option value="$PROJECT_DIR$/week2-2/src/main/java/com/kevin/spring/uber/FleetLocationServiceApplication.java" />
         <option value="$PROJECT_DIR$/week2-2/pom.xml" />
+        <option value="$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java" />
       </list>
     </option>
   </component>
@@ -188,7 +94,6 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="827" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -276,6 +181,82 @@
               <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="horis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="horis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spring" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="horis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spring" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uber" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hello-week1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Real-time-Car-Location-Monitoring-System" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="week2-2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="horis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spring" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uber" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="domain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -286,7 +267,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545168604044" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545169355619" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -328,7 +309,7 @@
       <workItem from="1541476925631" duration="651000" />
       <workItem from="1541792007543" duration="599000" />
       <workItem from="1542224767679" duration="122000" />
-      <workItem from="1545167817439" duration="786000" />
+      <workItem from="1545167817439" duration="1503000" />
     </task>
     <task id="LOCAL-00001" summary="initialize the spring config">
       <created>1540518206611</created>
@@ -379,17 +360,23 @@
       <option name="project" value="LOCAL" />
       <updated>1545168512302</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=":construction: Define Location Class">
+      <created>1545168622237</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1545168622237</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9641000" />
+    <option name="totallyTimeSpent" value="10358000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="827" y="0" width="960" height="1080" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="0" width="960" height="1080" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49895397" visible="true" weight="0.30196938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49895397" visible="true" weight="0.30196938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -405,7 +392,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32810867" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32810867" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3294979" />
@@ -436,7 +423,8 @@
     <MESSAGE value="update gitignore" />
     <MESSAGE value="update modules" />
     <MESSAGE value=":construction Define Location Class" />
-    <option name="LAST_COMMIT_MESSAGE" value=":construction Define Location Class" />
+    <MESSAGE value=":construction: Define Location Class" />
+    <option name="LAST_COMMIT_MESSAGE" value=":construction: Define Location Class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Uber.iml" />
@@ -494,6 +482,13 @@
     <entry file="file://$PROJECT_DIR$/week2-2/fleet-location-service.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week2-2/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -501,10 +496,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/week2-2/src/main/java/com/horis/spring/uber/domain/Location.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="724">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1452#1453#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
