@@ -1,4 +1,4 @@
-package com.kevin.spring.uber.domain;
+package com.horis.spring.uber.domain;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
