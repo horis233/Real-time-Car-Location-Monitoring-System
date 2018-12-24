@@ -1,14 +1,16 @@
 package com.horis.spring.uber.service.impl;
 
-import com.kevin.spring.uber.domain.Location;
-import com.kevin.spring.uber.domain.LocationRepository;
-import com.kevin.spring.uber.service.LocationService;
+import com.horis.spring.uber.domain.Location;
+import com.horis.spring.uber.domain.LocationRepository;
+import com.horis.spring.uber.service.LocationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Service /* Marked this Bean as a Service Layer */
 public class LocationServiceImpl implements LocationService {
 
     private LocationRepository locationRepository;

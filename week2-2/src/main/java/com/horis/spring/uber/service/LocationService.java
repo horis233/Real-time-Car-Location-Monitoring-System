@@ -1,6 +1,6 @@
 package com.horis.spring.uber.service;
 
-import com.kevin.spring.uber.domain.Location;
+import com.horis.spring.uber.domain.Location;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
